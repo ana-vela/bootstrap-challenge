@@ -19,26 +19,34 @@
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<a class="navbar-brand" href="#">Brand</a>
+								<a class="navbar-brand"><img src="img/cassettetape.jpg" width="55px" height="35px" alt="cassette tape"></a>
 							</div>
 
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
-									<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-									<li><a href="#">Link</a></li>
+									<li class="active"></li>
 
 								</ul>
 
 								<ul class="nav navbar-nav navbar-right">
-									<li><a href="#">Link</a></li>
-
-										</ul>
-									</li>
+									<li><a href="#">Duran Duran</a></li>
+									<li><a href="#">The Smiths</a></li>
+									<li><a href="#">The Cure</a></li>
+									<li><a href="#">Depeche Mode</a></li>
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</div><!-- /.container-fluid -->
 					</nav>
+
+						<div class="container">
+								<div class="jumbotron">
+									<h1>Just Can't Get Enough</h1>
+									<p>A Website for the Love of 80s Music</p>
+								</div>
+						</div>
+
+
 
 
 
