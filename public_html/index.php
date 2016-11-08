@@ -38,20 +38,52 @@
 							</div><!-- /.navbar-collapse -->
 						</div><!-- /.container-fluid -->
 					</nav>
-
-						<div class="container">
-								<div class="jumbotron">
-									<h1>Just Can't Get Enough</h1>
-									<p>A Website for the Love of 80s Music</p>
-								</div>
-						</div>
-
-
-
-
-
-
 				</header>
+						<div class="container">
+							<div class="jumbotron">
+								<h1>Just Can't Get Enough</h1>
+								<p>A Website for the Love of 80s Music</p>
+							</div>
+						</div>
+					<div class="container">
+						<div class="col-xs-6 col-md-4">
+							<img src="img/mtv.jpg" alt="MTV">
+						</div>
+						<div class="col-xs-12 col-sm-6 col-md-8">
+							<p>Where's tha bin. Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.Where's tha bin. Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.</p>
+						</div>
+					</div>
+			<div class="container">
+				<div class=""center-fixed">
+
+					<div class="col-md-3">
+						<img src="img/duranduran.jpg"  alt="Duran Duran pic" class="img-circle img-responsive">
+						<h2>Duran Duran</h2>
+						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+				</div>
+				<div class="col-md-3">
+					<img src="img/thesmiths.jpg"  alt="The Smiths pic" class="img-circle img-responsive">
+					<h2>The Smiths</h2>
+					<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+				</div>
+					<div class="col-md-3">
+						<img src="img/thecure.jpg"  alt="The Cure pic" class="img-circle img-responsive">
+						<h2>The Cure</h2>
+						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+					</div>
+					<div class="col-md-3 center-block">
+
+						<img src="img/depechemode.jpg"  alt="The Smiths pic"  class="img-circle img-responsive">
+						<h2>Depeche Mode</h2>
+						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+					</div>
+				</div>
+				</div>
+			</div>
+
+
+
+
 
 
 
