@@ -78,20 +78,13 @@
 						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
 					</div>
 				</div>
-				</div>
 			</div>
-
-
-
-
-
-
-
-
-
-
-
-
+				<footer class="footer">
+					<div class="container">
+						<p class="text-muted">Place sticky footer content here.</p>
+					</div>
+				</footer>
+			</div>
 			</div>
 		</body>
 </html>
