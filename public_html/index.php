@@ -7,7 +7,7 @@
 
 		<body class="sfooter">
 			<div class="sfooter-content">
-				<!-- begin header -->
+				<!-- begin header and navbar -->
 				<header>
 					<nav class="navbar navbar-default">
 						<div class="container-fluid">
@@ -30,61 +30,91 @@
 								</ul>
 
 								<ul class="nav navbar-nav navbar-right">
-									<li><a href="#">Duran Duran</a></li>
-									<li><a href="#">The Smiths</a></li>
-									<li><a href="#">The Cure</a></li>
-									<li><a href="#">Depeche Mode</a></li>
+									<li><a href="#about">About the 80s</a></li>
+									<li><a href="#bands">The Bands</a></li>
+									<li><a href="#">More Info</a></li>
+									<li><a href="#">Link</a></li>
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</div><!-- /.container-fluid -->
 					</nav>
 				</header>
+				<!-- begin welcome section -->
 						<div class="container">
-							<div class="jumbotron">
-								<h1>Just Can't Get Enough</h1>
-								<p>A Website for the Love of 80s Music</p>
+							<div class="row">
+								<div class="col-sm-12">
+									<div class="jumbotron">
+										<h1>Just Can't Get Enough</h1>
+										<p>A Website for the Love of 80s Music</p>
+									</div>
+								</div>
 							</div>
 						</div>
+				<!--photo and text section-->
+				<a name="about"></a><!-- this is an "anchor" link -->
+				<section class="bg-gray">
 					<div class="container">
-						<div class="col-xs-6 col-md-4">
-							<img src="img/mtv.jpg" alt="MTV">
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-8">
+						<div class="row">
+							<div class="col-sm-3">
+							<img src="img/mtv.jpg" alt="MTV" class="img-responsive img-thumbnail xs-center-block m-b-2">
+							</div>
+						<div class="col-sm-9">
 							<p>Where's tha bin. Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.Where's tha bin. Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.</p>
+							</div>
 						</div>
 					</div>
-			<div class="container">
-				<div class=""center-fixed">
+				</section>
 
-					<div class="col-md-3">
-						<img src="img/duranduran.jpg"  alt="Duran Duran pic" class="img-circle img-responsive">
-						<h2>Duran Duran</h2>
-						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
-				</div>
-				<div class="col-md-3">
-					<img src="img/thesmiths.jpg"  alt="The Smiths pic" class="img-circle img-responsive">
-					<h2>The Smiths</h2>
-					<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
-				</div>
-					<div class="col-md-3">
-						<img src="img/thecure.jpg"  alt="The Cure pic" class="img-circle img-responsive">
-						<h2>The Cure</h2>
-						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+				<!--begin next section -->
+				<a name="bands"></a><!-- this is an "anchor" link -->
+				<section>
+					<div class="container">
+						<div class="row">
+							<div class="center-fixed">
+								<div class="col-md-3">
+									<div class="text-center m-b-2">
+										<div>
+											<img src="img/duranduran.jpg"  alt="Duran Duran pic" class="img-circle img-responsive img-thumbnail xs-center-block m-b-2">
+											<h2>Duran Duran</h2>
+											<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="text-center m-b-2">
+										<div>
+									<img src="img/thesmiths.jpg"  alt="The Smiths pic" class="img-circle img-responsive img-thumbnail xs-center-block m-b-2">
+										<h2>The Smiths</h2>
+											<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="text-center m-b-2">
+										<div>
+									<img src="img/thecure.jpg"  alt="The Cure pic" class="img-circle img-responsive img-thumbnail xs-center-block m-b-2">
+										<h2>The Cure</h2>
+											<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+										</div>
+										</div>
+									</div>
+								<div class="col-md-3">
+									<div class="text-center m-b-2">
+										<div>
+									<img src="img/depechemode.jpg"  alt="The Smiths pic"  class="img-circle img-responsive img-thumbnail xs-center-block m-b-2">
+										<h2>Depeche Mode</h2>
+											<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="col-md-3 center-block">
-
-						<img src="img/depechemode.jpg"  alt="The Smiths pic"  class="img-circle img-responsive">
-						<h2>Depeche Mode</h2>
-						<p> Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth.</p>
-					</div>
-				</div>
-			</div>
+				</section>
 				<footer class="footer">
 					<div class="container">
-						<p class="text-muted">Place sticky footer content here.</p>
+						<p class="text-muted">Place sticky footer here</p>
 					</div>
 				</footer>
-			</div>
-			</div>
 		</body>
 </html>
